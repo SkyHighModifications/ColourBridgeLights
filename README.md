@@ -16,7 +16,7 @@ The Colour Bridge Lights script is designed to enhance the visual experience in 
 ## Installation
 
 1. Make sure you have [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) & [ScriptHookVDotNet](https://github.com/scripthookvdotnet/scripthookvdotnet)
-2. Place the `ColourBridgeLights.dll` & `ColourBridgeLights.ini` file into your GTA V *"scripts"* folder.
+2. Place the `ColourBridgeLights.dll` & `ColourBridgeLights.ini` files into your GTA V *"scripts"* folder.
 
 ## How to Use
 Experience the enhanced visual effects as you traverse the designated bridges in the game. Watch as the lights change color or flash blue and red based on your actions and the time of day.
@@ -59,7 +59,7 @@ Make sure to enter the color names exactly as shown above, including capitalizat
 ---
 
 ## Original Concept
-The original idea behind the script was to introduce changing color lights on certain bridges to create a more vibrant and dynamic game world. However, as development progressed, we realized the potential to further immerse players in the game environment by integrating police wanted level mechanics into the lighting effects.
+The original idea behind the script was to introduce changing color lights on certain bridges to create a more vibrant and dynamic game world. However, as development progressed, we realized the potential to further immerse players in the game environment by integrating police-wanted level mechanics into the lighting effects.
 
 ## Future Development
 While the current version of the script offers an exciting and immersive experience, there is always room for improvement and expansion. Future updates may include additional features, such as support for more bridges, enhanced visual effects, and further customization options.
@@ -68,7 +68,7 @@ While the current version of the script offers an exciting and immersive experie
 We welcome any feedback or suggestions for improving the script. If you have ideas for new features or enhancements, feel free to contribute to the project or reach out to us with your suggestions.
 
 # Contact Us
-Want to get in contact with us? Here are a couple places you can do so:
+Want to get in contact with us? Here are a couple of places you can do so:
 
 [Discord](https://discord.gg/tKQgdQuJYF) | [Tebex](https://skyhigh-modifications.tebex.io/) | [UnionMods](https://unionmods.com/viewauthor?author=592) | [GTA5Mods](https://www.gta5-mods.com/users/BerkshireMods) | [LCDPFR](https://www.lcpdfr.com/profile/465231-skyhigh-modifications/) | [GitHub](https://github.com/SkyHighModifications) | [Youtube](https://www.youtube.com/@SkyHighModifications)
 
