@@ -1,4 +1,4 @@
-# 💡🌉 Colour Bridge Lights - V1.0.0 🌉💡
+# 💡🌉 Colour Bridge Lights - V2.0.0 🌉💡
 
 ### [Showcase Video](https://youtu.be/qxih62hg4pQ)
 
@@ -25,8 +25,8 @@ Experience the enhanced visual effects as you traverse the designated bridges in
 
 - **POLICE_WANTED:** This section allows you to specify the colors of the lights when the player has a wanted level.
 
-> - **LIGHT_1:** Specifies the color of the first police light. Available colors are: "Red", "Green", "Blue", and others (see below).
-> - **LIGHT_2:** Specifies the color of the second police light. Available colors are the same as LIGHT_1.
+> - **LightColour_1:** Specifies the color of the first police light. Available colors are: "Red", "Green", "Blue", and others (see below).
+> - **LightColour_2:** Specifies the color of the second police light. Available colors are the same as LIGHT_1.
 
 - **LIGHTSETTINGS:** This section allows you to configure general settings for the script.
 
@@ -47,6 +47,11 @@ Make sure to enter the color names exactly as shown above, including capitalizat
 
 ## Changelog
 
+#### V2.0.0 | Minor Adjustments
+[Download V2.0.0](https://github.com/SkyHighModifications/ColourBridgeLights/releases/tag/2.0.0)
+- **Code Minor Adjustments:** Lights will now work without an error.
+---
+---
 #### V1.0.0 | Initial Release
 [Download V1.0.0](https://github.com/SkyHighModifications/ColourBridgeLights/releases/tag/1.0.0)
 - **Initial Release:** The script is now available for download.
