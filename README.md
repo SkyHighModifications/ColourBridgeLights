@@ -68,7 +68,7 @@ While the current version of the script offers an exciting and immersive experie
 We welcome any feedback or suggestions for improving the script. If you have ideas for new features or enhancements, feel free to contribute to the project or reach out to us with your suggestions.
 
 # Contact Us
-Want to get in contact with us? Here are a couple places you can do so:
+Want to get in contact with us? Here are a couple of places you can do so:
 
 [Discord](https://discord.gg/tKQgdQuJYF) | [Tebex](https://skyhigh-modifications.tebex.io/) | [UnionMods](https://unionmods.com/viewauthor?author=592) | [GTA5Mods](https://www.gta5-mods.com/users/BerkshireMods) | [LCDPFR](https://www.lcpdfr.com/profile/465231-skyhigh-modifications/) | [GitHub](https://github.com/SkyHighModifications) | [Youtube](https://www.youtube.com/@SkyHighModifications)
 
